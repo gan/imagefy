@@ -61,7 +61,7 @@ const Sidebar = () => {
             <SignedOut>
                 <Button asChild size="icon" className="button bg-purple-gradient bg-cover">
                     <Link href="/sign-in">
-                        <Image src="/assets/icons/sign-in.svg" alt="Sign in" width={24} height={24} />
+                        Login
                     </Link>
                 </Button>
             </SignedOut>
